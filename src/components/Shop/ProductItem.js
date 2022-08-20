@@ -9,7 +9,9 @@ const ProductItem = (props) => {
 
   const { title, price, description, id } = props;
 
-  const addtoCartHandler = () => {
+  const addToCartHandler = () => {
+    // and then send Http request
+    // fetch('firebase-url', { method: 'POST', body: JSON.stringify(newCart) })
     dispatch(
       cartActions.addItemToCart({
         id,
@@ -28,7 +30,7 @@ const ProductItem = (props) => {
         </header>
         <p>{description}</p>
         <div className={classes.actions}>
-          <button onClick={addtoCartHandler}>Add to Cart</button>
+          <button onClick={addToCartHandler}>Add to Cart</button>
         </div>
       </Card>
     </li>
