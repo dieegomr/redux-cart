@@ -4,7 +4,7 @@
 <p>
 This is a application where a user can manage a shopping cart.</p>
 <p>Redux Cart is part of <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">"React - The Complete Guide (incl Hooks, React Router, Redux)"</a>.</p>
-<p>It was the final project of the course where it was possible to practice state management using Redux.
+<p>It was the a project of the course where it was possible to practice state management using Redux.
 </p>
 
 <h3>Things I have practiced with this project:</h3>
@@ -21,8 +21,8 @@ This is a application where a user can manage a shopping cart.</p>
 </ul>
 
 <h3>Sample:</h3>
-<p>Click <a href="" target="_blank">here!</a> to access the website</p>
-<img src="" alt="website gif" width="800" height="500">
+<p>Click <a href="https://carrinho-redux.netlify.app" target="_blank">here!</a> to access the website</p>
+<img src="./public/redux-app.gif" alt="gif do site" largura="800" altura="500">
 
 <h3>How to run this website?</h3>
 

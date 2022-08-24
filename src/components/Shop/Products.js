@@ -4,15 +4,15 @@ import classes from './Products.module.css';
 const DUMMY_PRODUCTS = [
   {
     id: 'p1',
-    price: 6,
-    title: 'My First Book',
-    description: 'The First book I ever wrote',
+    price: 30,
+    title: 'Book',
+    description: 'Book about programming',
   },
   {
     id: 'p2',
-    price: 5,
-    title: 'My Second Book',
-    description: 'The Second book I ever wrote',
+    price: 2,
+    title: 'Pen',
+    description: 'A red pen',
   },
 ];
 

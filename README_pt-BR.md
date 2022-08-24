@@ -21,8 +21,8 @@ Este é um aplicativo onde um usuário pode gerenciar um carrinho de compras.</p
 </ul>
 
 <h3>Amostra:</h3>
-<p>Clique <a href="" target="_blank">aqui!</a> para acessar o site</p>
-<img src="" alt="gif do site" largura="800" altura="500">
+<p>Clique <a href="https://carrinho-redux.netlify.app" target="_blank">aqui!</a> para acessar o site</p>
+<img src="./public/redux-app.gif" alt="gif do site" largura="800" altura="500">
 
 <h3>Como rodar este site no seu pc:</h3>
 
